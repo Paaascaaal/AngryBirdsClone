@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a102a2db847d5724b9c362d2731f1945
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goldStern: {fileID: 21300000, guid: cf6870d252ca6124a85b3120659677c0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
